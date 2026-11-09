@@ -6,7 +6,7 @@ int main(void)
     scanf("%d", &r);
     if (r >= 0)
     {
-        printf("%.2f", r * r * 3.14);
+        printf("%.2f", r * r * 22.0);
     }
     else
     {
